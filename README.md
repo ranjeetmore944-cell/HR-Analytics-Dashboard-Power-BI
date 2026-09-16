@@ -1,4 +1,4 @@
-```markdown
+
 # HR Analytics Dashboard
 
 ### 1. Project Title / Headline
@@ -100,4 +100,3 @@ To deliver an interactive visual tool that:
 ### 6. Screenshots / Demos
 ![Dashboard Preview](Hr_Analytics_Dashboard.png)
 
-```
