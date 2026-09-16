@@ -98,6 +98,6 @@ To deliver an interactive visual tool that:
   Ranks leading roles impacted by attrition: Laboratory Technician (62), Sales Executive (57), Research Scientist (47), and Sales Representative (33).
 
 ### 6. Screenshots / Demos
-![Dashboard Preview](HR_Analytics_Dashboard_Preview.png)
+![Dashboard Preview](Hr_Analytics_Dashboard.png)
 
 ```
